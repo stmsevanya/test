@@ -1,3 +1,4 @@
 Basic libraries @https://www.lfd.uci.edu/~gohlke/pythonlibs
 
 Keras - required - scipy - numpy+mtk
+                         ->pip install numpy‑1.14.4+mkl‑cp36‑cp36m‑win_amd64.whl
